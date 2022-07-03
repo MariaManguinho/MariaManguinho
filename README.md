@@ -41,7 +41,7 @@
 
 <table>
   <tr>
-    ![Snake animation](https://github.com/MariaManguinho/MariaManguinho/blob/output/github-contribution-grid-snake.svg)
+    <td>![Snake animation](https://github.com/MariaManguinho/MariaManguinho/blob/output/github-contribution-grid-snake.svg)</td>
   </tr>
   <tr>
     <td colspan='2'>Por favor me siga ❤️</td>
